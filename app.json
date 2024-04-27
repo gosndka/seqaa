@@ -20,7 +20,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "eco"
+            "size": "performance"
         }
     },
     "logo": "https://raw.githubusercontent.com/iTzBlack007/blacky-rent-WEB/main/logo.png",
